@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1676101810 source:d:\dev\project\src\colourconversion.cpp
+	"ColourConversion.h"
+
+1676087916 d:\dev\project\include\colourconversion.h
+	<opencv2/viz/types.hpp>
+
+1676108490 source:d:\dev\project\main.cpp
+	<iostream>
+	<opencv2/core/core.hpp>
+	<opencv2/imgcodecs.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"VectorScope.h"
+
+1676108581 d:\dev\project\vectorscope.h
+	"opencv2/imgproc.hpp"
+	"ColourConversion.h"
+
+1676101810 source:d:\dev\lab4\src\colourconversion.cpp
+	"ColourConversion.h"
+
+1676087916 d:\dev\lab4\include\colourconversion.h
+	<opencv2/viz/types.hpp>
+
+1678479417 source:d:\dev\lab4\mandelbrotset.cpp
+	"MandelbrotSet.h"
+	<complex>
+	<iostream>
+
+1678478870 d:\dev\lab4\mandelbrotset.h
+	<opencv2/opencv.hpp>
+
+1678479759 source:d:\dev\lab4\main.cpp
+	<opencv2/opencv.hpp>
+	"MandelbrotSet.h"
+
