@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1548510021 source:d:\dec_cg\firstm\main.cpp
+	<iostream>
+	"model.h"
+
+1548502401 d:\dec_cg\firstm\model.h
+	<vector>
+	<opencv2/core/core.hpp>
+	<opencv2/imgcodecs.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc.hpp>
+
+1548509874 source:d:\dec_cg\firstm\model.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+	"model.h"
+
+1676711584 source:d:\dev\projectwithmodel\firstm\main.cpp
+	<iostream>
+	"model.h"
+	"graphics.h"
+
+1548502401 d:\dev\projectwithmodel\firstm\model.h
+	<vector>
+	<opencv2/core/core.hpp>
+	<opencv2/imgcodecs.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc.hpp>
+
+1548509874 source:d:\dev\projectwithmodel\firstm\model.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+	"model.h"
+
+1676709856 d:\dev\projectwithmodel\firstm\mygraphics.h
+
+1676710241 d:\dev\projectwithmodel\firstm\include\graphics.h
+	<opencv2/core/core.hpp>
+
+1676710238 source:d:\dev\projectwithmodel\firstm\src\graphics.cpp
+	"graphics.h"
+	<opencv2/imgcodecs.hpp>
+	<opencv2/highgui/highgui.hpp>
+
+1676711861 source:d:\dev\lab2\firstm\main.cpp
+	<iostream>
+	"model.h"
+	"graphics.h"
+
+1548502401 d:\dev\lab2\firstm\model.h
+	<vector>
+	<opencv2/core/core.hpp>
+	<opencv2/imgcodecs.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc.hpp>
+
+1676710241 d:\dev\lab2\firstm\include\graphics.h
+	<opencv2/core/core.hpp>
+
+1548509874 source:d:\dev\lab2\firstm\model.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+	"model.h"
+
+1676710238 source:d:\dev\lab2\firstm\src\graphics.cpp
+	"graphics.h"
+	<opencv2/imgcodecs.hpp>
+	<opencv2/highgui/highgui.hpp>
+
+1679099175 source:d:\dev\lab5\firstm\main.cpp
+	<iostream>
+	"model.h"
+	"Transformations.h"
+
+1548502401 d:\dev\lab5\firstm\model.h
+	<vector>
+	<opencv2/core/core.hpp>
+	<opencv2/imgcodecs.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc.hpp>
+
+1676710241 d:\dev\lab5\firstm\include\graphics.h
+	<opencv2/core/core.hpp>
+
+1548509874 source:d:\dev\lab5\firstm\model.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<vector>
+	"model.h"
+
+1676710238 source:d:\dev\lab5\firstm\src\graphics.cpp
+	"graphics.h"
+	<opencv2/imgcodecs.hpp>
+	<opencv2/highgui/highgui.hpp>
+
+1679098924 source:d:\dev\lab5\firstm\src\transformations.cpp
+	"Transformations.h"
+	<cmath>
+
+1679098939 d:\dev\lab5\firstm\include\transformations.h
+	<opencv2/core/core.hpp>
+
